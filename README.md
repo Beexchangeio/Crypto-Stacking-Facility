@@ -1,18 +1,18 @@
 # Crypto-Staking-Facility
-Crypto Stacking Facility
-This repository contains a Python script that calculates the potential return on investment (ROI) for cryptocurrency stacking. Stacking involves holding a cryptocurrency in a wallet for a specified duration to earn interest on the held amount.
+Crypto Staking Facility
+This repository contains a Python script that calculates the potential return on investment (ROI) for cryptocurrency staking. Staking involves holding a cryptocurrency in a wallet for a specified duration to earn interest on the held amount.
 
 Features
-Calculates the total amount after the stacking period based on the principal, interest rate, and duration.
+Calculates the total amount after the staking period based on the principal, interest rate, and duration.
 Provides an easy-to-use command-line interface to input the required parameters.
-Displays the total amount after the stacking period.
+Displays the total amount after the staking period.
 Requirements
 Python 3.x
 Usage
 Clone the repository:
-git clone https://github.com/your-username/crypto-stacking-facility.git
+git clone https://github.com/your-username/crypto-staking-facility.git
 Navigate to the project directory:
-cd crypto-stacking-facility
+cd crypto-staking-facility
 Run the script:
 python stack_crypto.py
 Follow the prompts and enter the required parameters:
@@ -32,8 +32,6 @@ After 2 years, the total amount will be: 1102.5
 
 License
 This project is licensed under the MIT License.
-
-Feel free to modify and use the code according to your needs.
 
 Contribution
 Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
