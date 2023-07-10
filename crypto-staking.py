@@ -1,3 +1,5 @@
+![logo](https://github.com/Beexchangeio/Crypto-Staking-Facility/assets/108594892/11d27a25-2075-4029-b57d-fefb4af92e64)
+
 def calculate_roi(principal, interest_rate, duration):
     # Calculate the ROI
     interest = principal * (interest_rate / 100) * duration
