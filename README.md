@@ -20,7 +20,7 @@ python stack_crypto.py
 Follow the prompts and enter the required parameters:
 
 Principal amount: The amount of cryptocurrency you want to stack.
-Interest rate: The interest rate offered for stacking, expressed as a percentage.
+Interest rate: The interest rate offered for staking, expressed as a percentage.
 Stacking duration: The duration, in years, for which you plan to stack the cryptocurrency.
 The script will calculate the total amount after the stacking period and display it on the command-line interface.
 
@@ -28,7 +28,7 @@ Example
 $ python stack_crypto.py
 Enter the principal amount: 1000
 Enter the interest rate (%): 5
-Enter the stacking duration (in years): 2
+Enter the staking duration (in years): 2
 
 After 2 years, the total amount will be: 1102.5
 
