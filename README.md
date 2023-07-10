@@ -1,4 +1,4 @@
-# Crypto-Stacking-Facility
+# Crypto-Staking-Facility
 Crypto Stacking Facility
 This repository contains a Python script that calculates the potential return on investment (ROI) for cryptocurrency stacking. Stacking involves holding a cryptocurrency in a wallet for a specified duration to earn interest on the held amount.
 
