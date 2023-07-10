@@ -1,6 +1,7 @@
 # Crypto-Staking-Facility
 Crypto Staking Facility
 This repository contains a Python script that calculates the potential return on investment (ROI) for cryptocurrency staking. Staking involves holding a cryptocurrency in a wallet for a specified duration to earn interest on the held amount.
+![Logo](assets/logo.png)
 
 Features
 Calculates the total amount after the staking period based on the principal, interest rate, and duration.
